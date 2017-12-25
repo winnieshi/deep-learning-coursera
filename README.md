@@ -40,6 +40,7 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
 - Course 4: Convolutional Neural Networks
 
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
+  - [myself](https://github.com/winnieshi/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   - [Week 2 - PA 2 - Residual Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
